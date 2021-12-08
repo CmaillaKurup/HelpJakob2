@@ -4,6 +4,7 @@ namespace HelpJakob
     {
         private HTMLConverter convert;
         
+        //This couldt be removed, it would be posible for SendToAll() to take care of this
         public void Send(MessageCarrier type, MessageMng m, bool isHTML)
         {
             if (type.Equals(MessageCarrier.VMessage))
@@ -14,7 +15,9 @@ namespace HelpJakob
             }
         }
 
-        public void Send(MessageCarrier type, string[] to, MessageMng m, bool isHTML)
+        
+        // The array can hold one to more people and there for the methode Send could be redundant
+        public void SendToAll(MessageCarrier type, string[] to, MessageMng m, bool isHTML)
         {
             if (type.Equals(MessageCarrier.VMessage))
             {

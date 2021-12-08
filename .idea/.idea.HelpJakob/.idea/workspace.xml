@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="097889c3-ebb5-47f8-889e-5f2b6f538ce3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HelpJakob/HTMLConverter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelpJakob/MessageCarrier.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelpJakob/MessageMng.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelpJakob/MessageSenderSmtp.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelpJakob/MessageSenderVMessage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelpJakob/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HelpJakob/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HelpJakob/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HelpJakob/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelpJakob/MessageSenderSmtp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HelpJakob/MessageSenderSmtp.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelpJakob/MessageSenderVMessage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HelpJakob/MessageSenderVMessage.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +24,8 @@
       <option value="$PROJECT_DIR$/HelpJakob/Converter.cs" />
       <option value="$PROJECT_DIR$/HelpJakob/MessageMng.cs" />
       <option value="$PROJECT_DIR$/HelpJakob/HTMLConverter.cs" />
-      <option value="$PROJECT_DIR$/HelpJakob/MessageSenderSmtp.cs" />
       <option value="$PROJECT_DIR$/HelpJakob/MessageSender.cs" />
+      <option value="$PROJECT_DIR$/HelpJakob/MessageSenderSmtp.cs" />
       <option value="$PROJECT_DIR$/HelpJakob/MessageSenderVMessage.cs" />
     </changedPaths>
   </component>
@@ -42,6 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="HelpJakob" type="DotNetProject" factoryName=".NET Project">
@@ -71,11 +69,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638950684359</updated>
-      <workItem from="1638950688605" duration="3112000" />
+      <workItem from="1638950688605" duration="3789000" />
+      <workItem from="1638956843696" duration="947000" />
     </task>
+    <task id="LOCAL-00001" summary="solved">
+      <created>1638954323883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638954323883</updated>
+    </task>
+    <task id="LOCAL-00002" summary="solved">
+      <created>1638954348664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638954348664</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -87,8 +101,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved" />
   </component>
 </project>

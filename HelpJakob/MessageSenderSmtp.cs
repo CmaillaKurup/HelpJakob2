@@ -14,7 +14,7 @@ namespace HelpJakob
                 //her implementeres alt koden til at sende via Smtp
             }
         }
-        public void Send(MessageCarrier type, string[] to, MessageMng m, bool isHTML)
+        public void SendToAll(MessageCarrier type, string[] to, MessageMng m, bool isHTML)
         {
             if (type.Equals(MessageCarrier.Smtp))
             {
